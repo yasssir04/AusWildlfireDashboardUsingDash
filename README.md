@@ -1,4 +1,4 @@
-# AusWildlifeDashboardUsingDash
+# AusWildlfireDashboardUsingDash
 
 # Components of the Dashboard
 - Select Region
